@@ -14,7 +14,7 @@
         <zeronaryComplementColor>#FFFFFF</zeronaryComplementColor>
     </branding>
     <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
-    <emailSenderAddress>david@sfdtraining.com</emailSenderAddress>
+    <emailSenderAddress>admin@salesforce.com</emailSenderAddress>
     <emailSenderName>Ashalynn Code For Login</emailSenderName>
     <enableGuestChatter>false</enableGuestChatter>
     <enableInvitation>false</enableInvitation>
